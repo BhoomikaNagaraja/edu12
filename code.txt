@@ -1,0 +1,43 @@
+package saniya;
+
+public class rectangle {
+
+int.length
+int.hight
+int.width
+
+rectangle(int l, int h, int w){
+
+	this.length=l;
+	this.hight=h;
+	this.width=w;
+}
+recrangle[]
+
+	length=0;
+        hight=0;
+        width=0;
+
+  rectangle[int h, int l]
+
+           this.length();
+           this.hight();
+           this.width()
+
+           public void display()
+           
+}
+return[length,hight,width]
+	
+}
+}
+ public class demo{
+	 public static void main(string[]args) {
+	 rectangle r1=new rectangle(10,5);
+	 rectangle r2=new rectangle(22,8);
+	 rectangle r3=new rectangle(45,5);
+	 
+	 r1.display
+ }
+ }
+ }
